@@ -1,0 +1,15 @@
+2016-04-08 13:33:40 DEBUG : LoggingSubClass -> loggingDebug[11] -> [com.nmn.practice.LoggingSubClass.loggingDebug(LoggingSubClass.java:11)] All debug dumped.
+2016-04-08 13:33:40 INFO  : LoggingSubClass -> loggingInfo[15] -> [com.nmn.practice.LoggingSubClass.loggingInfo(LoggingSubClass.java:15)] All information useful.
+2016-04-08 13:33:40 WARN  : LoggingSubClass -> loggingWarn[19] -> [com.nmn.practice.LoggingSubClass.loggingWarn(LoggingSubClass.java:19)] All warning highlighted.
+2016-04-08 13:33:40 ERROR : LoggingSubClass -> loggingError[23] -> [com.nmn.practice.LoggingSubClass.loggingError(LoggingSubClass.java:23)] All error bought up.
+2016-04-08 13:33:40 FATAL : LoggingSubClass -> loggingFatal[27] -> [com.nmn.practice.LoggingSubClass.loggingFatal(LoggingSubClass.java:27)] All fatal intolerable.
+2016-04-08 13:34:33 DEBUG : LoggingSubClass -> loggingDebug[11] -> [com.nmn.practice.LoggingSubClass.loggingDebug(LoggingSubClass.java:11)] All debug dumped.
+2016-04-08 13:34:33 INFO  : LoggingSubClass -> loggingInfo[15] -> [com.nmn.practice.LoggingSubClass.loggingInfo(LoggingSubClass.java:15)] All information useful.
+2016-04-08 13:34:33 WARN  : LoggingSubClass -> loggingWarn[19] -> [com.nmn.practice.LoggingSubClass.loggingWarn(LoggingSubClass.java:19)] All warning highlighted.
+2016-04-08 13:34:33 ERROR : LoggingSubClass -> loggingError[23] -> [com.nmn.practice.LoggingSubClass.loggingError(LoggingSubClass.java:23)] All error bought up.
+2016-04-08 13:34:33 FATAL : LoggingSubClass -> loggingFatal[27] -> [com.nmn.practice.LoggingSubClass.loggingFatal(LoggingSubClass.java:27)] All fatal intolerable.
+2016-04-08 13:36:05 DEBUG : LoggingSubClass -> loggingDebug[11] -> [com.nmn.practice.LoggingSubClass.loggingDebug(LoggingSubClass.java:11)] All debug dumped.
+2016-04-08 13:36:05 INFO  : LoggingSubClass -> loggingInfo[15] -> [com.nmn.practice.LoggingSubClass.loggingInfo(LoggingSubClass.java:15)] All information useful.
+2016-04-08 13:36:05 WARN  : LoggingSubClass -> loggingWarn[19] -> [com.nmn.practice.LoggingSubClass.loggingWarn(LoggingSubClass.java:19)] All warning highlighted.
+2016-04-08 13:36:05 ERROR : LoggingSubClass -> loggingError[23] -> [com.nmn.practice.LoggingSubClass.loggingError(LoggingSubClass.java:23)] All error bought up.
+2016-04-08 13:36:05 FATAL : LoggingSubClass -> loggingFatal[27] -> [com.nmn.practice.LoggingSubClass.loggingFatal(LoggingSubClass.java:27)] All fatal intolerable.
